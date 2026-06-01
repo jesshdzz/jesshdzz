@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Acerca de mí:
 🔭Actualmente estudio la carrera de Ingeniería en Computación.<br>👯 Me interesa colaborar en equipos de desarrollo multidisciplinarios y auto-organizados.<br>🤝 Siempre aprendiendo cosas nuevas y mejorando día a día.<br>🌱 Estoy aprendiendo Desarrollo Móvil con Flutter, Inteligencia Artificial y Desarrollo Back-end.<br>💬 Me interesa aprender sobre ciberseguridad y también nuevas tecnologías de desarrollo
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeaantt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jesushernandez12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jesushernandezz.dev@gmail.com) 
 
 # 💻 Tech Stack:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jesshdzz&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Repos
 ![](https://github-contributor-stats.vercel.app/api?username=jesshdzz&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 ---
