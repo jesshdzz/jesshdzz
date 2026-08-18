@@ -1,8 +1,8 @@
-<img data-importer="image" align="right" height="220" src="https://media1.tenor.com/m/Dls3ERucnB8AAAAC/guts-waiting.gif"  />
+<h2 data-importer="text" align="left">Hola 👋! Soy Jesús Hernández - Ingeniero en Computación</h2>
 
 ###
 
-<h2 data-importer="text" align="left">Hola 👋! Soy Jesús Hernández - Ingeniero en Computación</h2>
+<img data-importer="image" align="right" height="220" src="https://media1.tenor.com/m/Dls3ERucnB8AAAAC/guts-waiting.gif"  />
 
 ###
 
@@ -122,17 +122,15 @@
 
 ###
 
+<br clear="both">
+
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/jesshdzz/jesshdzz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&custom_title=Mis%20Stats!" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=jesshdzz&custom_title=Mis%20Stats%21&show=reviews%2Cprs_merged%2Cprs_commented%2Cprs_reviewed&show_icons=true&include_all_commits=true&theme=rose_pine&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jesshdzz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=rose_pine&hide_border=true&layout=donut&custom_title=Mis%20lenguajes%20mas%20usados!" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jesshdzz&locale=es&mode=weekly&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/jesshdzz/jesshdzz/languages-output/languages.svg?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=rose_pine&hide_border=true&custom_title=Mis%20lenguajes%20mas%20usados!" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/jesshdzz/jesshdzz/trophy-output/trophy.svg?theme=chalk&column=9&row=1&no-frame=true&no-bg=true&margin-w=8" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="220" src="https://media1.tenor.com/m/DN4JBeneqdkAAAAd/congratulations-evangelion.gif"  />
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=jesshdzz&theme=chalk&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Jesús Hernández's GitHub Trophies" />
+</p>
 </div>
 
 ###
@@ -144,6 +142,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jesshdzz/jesshdzz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jesshdzz/jesshdzz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="220" src="https://media1.tenor.com/m/DN4JBeneqdkAAAAd/congratulations-evangelion.gif"  />
+</div>
 
 ###
 
