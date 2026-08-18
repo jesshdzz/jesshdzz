@@ -1,24 +1,152 @@
-# 💫 Acerca de mí:
-🔭Actualmente estudio la carrera de Ingeniería en Computación (9no semestre).<br>👯 Me interesa colaborar en equipos de desarrollo multidisciplinarios y auto-organizados.<br>🤝 Siempre aprendiendo cosas nuevas y mejorando día a día.<br>🌱 Estoy aprendiendo Desarrollo Móvil, Inteligencia Artificial y Desarrollo Back-end.<br>💬 Me interesa aprender sobre nuevas tecnologías de desarrollo y computo en la nube
+<img data-importer="image" align="right" height="220" src="https://media1.tenor.com/m/Dls3ERucnB8AAAAC/guts-waiting.gif"  />
 
+###
 
-## 🌐 Redes Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeaantt_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jesushernandez12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jesushernandezz.dev@gmail.com) 
+<h2 data-importer="text" align="left">Hola 👋! Soy Jesús Hernández - Ingeniero en Computación</h2>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jesshdzz&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=jesshdzz&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jesshdzz&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jesshdzz&theme=aura&no-frame=false&no-bg=false&margin-w=4)
+<div data-importer="socials" align="left">
+  <a href="https;//instagram.com/jeaantt_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jesushernandez12/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="jesushernandezz.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/31lciwd4nmzu2hcnichawuqobwsu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/jesushernandezz1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+</div>
 
-### 🔝 Top Repos
-![](https://github-contributor-stats.vercel.app/api?username=jesshdzz&limit=5&theme=aura&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://komarev.com/ghpvc/?username=jesshdzz&icon=10&color=13)](https://visitcount.itsvg.in)
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="cplusplus logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=haskell" height="36" alt="haskell logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=dart" height="36" alt="dart logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="36" alt="fedora logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="36" alt="ubuntu logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="36" alt="matlab logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=bash" height="36" alt="bash logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="36" alt="fastapi logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="firebase logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="36" alt="supabase logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="36" alt="prisma logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="36" alt="flutter logo"  />
+  <img width="11" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="36" alt="android logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=latex" height="36" alt="latex logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=md" height="36" alt="markdown logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="36" alt="npm logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="36" alt="neovim logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=regex" height="36" alt="regex logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=vue" height="36" alt="vuejs logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=vite" height="36" alt="vite logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="36" alt="vercel logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="36" alt="materialui logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="36" alt="slack logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="36" alt="jira logo"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/jesshdzz/jesshdzz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&custom_title=Mis%20Stats!" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=jesshdzz&locale=es&mode=weekly&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/jesshdzz/jesshdzz/languages-output/languages.svg?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=rose_pine&hide_border=true&custom_title=Mis%20lenguajes%20mas%20usados!" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/jesshdzz/jesshdzz/trophy-output/trophy.svg?theme=chalk&column=9&row=1&no-frame=true&no-bg=true&margin-w=8" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="220" src="https://media1.tenor.com/m/DN4JBeneqdkAAAAd/congratulations-evangelion.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jesshdzz/jesshdzz/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jesshdzz/jesshdzz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jesshdzz/jesshdzz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jesshdzz.jesshdzz&left_color=blueviolet&right_color=darkslateblue&left_text=Visitantes"  />
+
+###
