@@ -155,11 +155,10 @@
 
 ###
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Gabrielle&quotesUrl=https://jesshdzz/jesshdzz/bolb/main/quotes/quotes.json)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Gabrielle&quotesUrl=https://github.com/jesshdzz/jesshdzz/blob/main/quotes/quotes.json)
 
 ###
 
 <img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jesshdzz.jesshdzz&left_color=blueviolet&right_color=darkslateblue&left_text=Visitantes"  />
-
 
 ###
