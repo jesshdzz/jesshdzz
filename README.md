@@ -155,9 +155,9 @@
 
 ###
 
-<div align="center">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Gabrielle&quotesUrl=https://github.com/jesshdzz/jesshdzz/blob/main/quotes/quotes.json"/>
-</div>
+<p align="center">
+<img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Gabrielle&quotesUrl=https://github.com/jesshdzz/jesshdzz/blob/main/quotes/quotes.json"/>
+</p>
 
 ###
 
