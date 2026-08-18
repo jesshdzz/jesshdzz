@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-🔭Actualmente estudio la carrera de Ingeniería en Computación.<br>👯 Me interesa colaborar en equipos de desarrollo multidisciplinarios y auto-organizados.<br>🤝 Siempre aprendiendo cosas nuevas y mejorando día a día.<br>🌱 Estoy aprendiendo Desarrollo Móvil con Flutter, Inteligencia Artificial y Desarrollo Back-end.<br>💬 Me interesa aprender sobre ciberseguridad y también nuevas tecnologías de desarrollo
+🔭Actualmente estudio la carrera de Ingeniería en Computación (9no semestre).<br>👯 Me interesa colaborar en equipos de desarrollo multidisciplinarios y auto-organizados.<br>🤝 Siempre aprendiendo cosas nuevas y mejorando día a día.<br>🌱 Estoy aprendiendo Desarrollo Móvil, Inteligencia Artificial y Desarrollo Back-end.<br>💬 Me interesa aprender sobre nuevas tecnologías de desarrollo y computo en la nube
 
 
 ## 🌐 Redes Sociales:
