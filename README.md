@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="220" src="https://media1.tenor.com/m/Dls3ERucnB8AAAAC/guts-waiting.gif"  />
+<img data-importer="image" align="right" height="240" width="440" src="https://media1.tenor.com/m/Dls3ERucnB8AAAAC/guts-waiting.gif"  />
 
 ###
 
@@ -126,14 +126,14 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jesshdzz&custom_title=Mis%20Stats%21&show=reviews%2Cprs_merged%2Cprs_commented%2Cprs_reviewed&hide=issues,contribs,stars&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&ring_color=fff&icon_color=fff&title_color=7AE0F5&text_color=91EDA1&locale=en" height="150" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jesshdzz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&layout=donut&custom_title=Mis%20lenguajes%20mas%20usados&hide=CMake,HTML&title_color=7AE0F5&text_color=91EDA1" height="150"  alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=jesshdzz&custom_title=Mis%20Stats%21&show=reviews%2Cprs_merged%2Cprs_commented%2Cprs_reviewed&hide=issues,contribs,stars&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&ring_color=fff&icon_color=fff&title_color=7AE0F5&text_color=91EDA1&locale=en&card_width=400px" height="250" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jesshdzz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&layout=donut&custom_title=Mis%20lenguajes%20mas%20usados&hide=CMake,HTML&title_color=7AE0F5&text_color=91EDA1&card_width=340px" height="250"  alt="languages graph"  />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jesshdzz&locale=es&mode=weekly&theme=transparent&hide_border=true&border_radius=5&sideNums=7AE0F5&fire=7AE0F5&ring=fff&dates=FCC5FC&sideLabels=91EDA1&currStreakLabel=91EDA1&currStreakNum=91EDA1" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=jesshdzz&locale=es&mode=weekly&theme=transparent&hide_border=true&border_radius=5&sideNums=7AE0F5&fire=7AE0F5&ring=fff&dates=FCC5FC&sideLabels=91EDA1&currStreakLabel=91EDA1&currStreakNum=91EDA1" height="200" alt="streak graph"  />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=jesshdzz&theme=chalk&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Jesús Hernández's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=jesshdzz&theme=chalk&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" height="240" alt="GitHub Trophies" />
 </p>
 </div>
 
@@ -150,7 +150,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="220" src="https://media1.tenor.com/m/DN4JBeneqdkAAAAd/congratulations-evangelion.gif"  />
+  <img data-importer="image" height="320" width="520"src="https://media1.tenor.com/m/DN4JBeneqdkAAAAd/congratulations-evangelion.gif"  />
 </div>
 
 ###
