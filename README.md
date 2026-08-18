@@ -130,7 +130,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jesshdzz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&layout=donut&custom_title=Mis%20lenguajes%20mas%20usados&hide=CMake,HTML&title_color=7AE0F5&text_color=91EDA1&card_width=340px" height="250"  alt="languages graph"  />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jesshdzz&locale=es&mode=weekly&theme=transparent&hide_border=true&border_radius=5&sideNums=7AE0F5&fire=7AE0F5&ring=fff&dates=FCC5FC&sideLabels=91EDA1&currStreakLabel=91EDA1&currStreakNum=91EDA1" height="200" alt="streak graph"  />
+  <img src="./profile/streak.svg"" height="200" alt="streak graph"/>
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=jesshdzz&theme=chalk&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" height="240" alt="GitHub Trophies" />
