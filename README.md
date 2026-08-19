@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="320" width="420" src="https://media1.tenor.com/m/Dls3ERucnB8AAAAC/guts-waiting.gif"  />
+<img data-importer="image" align="right" height="300" width="400" src="https://media1.tenor.com/m/Dls3ERucnB8AAAAC/guts-waiting.gif"  />
 
 ###
 
@@ -160,6 +160,6 @@
 
 ###
 
-<img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jesshdzz.jesshdzz&left_color=blueviolet&right_color=darkslateblue&left_text=Visitas al perfil"  />
+<img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jesshdzz.jesshdzz&left_color=blueviolet&right_color=darkslateblue&left_text=Visitas%20al%20perfil"  />
 
 ###
