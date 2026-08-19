@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&layout=donut&custom_title=Mis%20lenguajes%20mas%20usados&hide=CMake,HTML&title_color=7AE0F5&text_color=91EDA1&card_width=340px
+          options: username=${{ github.repository_owner }}&locale=es&hide_title=false&card_width=320&langs_count=5&theme=transparent&hide_border=true&layout=donut&custom_title=Mis%20lenguajes%20mas%20usados&hide=CMake,HTML&title_color=7AE0F5&text_color=91EDA1&card_width=340px
           path: profile/top-langs.svg
           token: ${{ secrets.README_TOKEN }}
 
