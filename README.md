@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="240" width="440" src="https://media1.tenor.com/m/Dls3ERucnB8AAAAC/guts-waiting.gif"  />
+<img data-importer="image" align="right" height="320" width="420" src="https://media1.tenor.com/m/Dls3ERucnB8AAAAC/guts-waiting.gif"  />
 
 ###
 
@@ -150,17 +150,16 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="320" width="520"src="https://media1.tenor.com/m/DN4JBeneqdkAAAAd/congratulations-evangelion.gif"  />
+  <img data-importer="image" height="350" width="580"src="https://media1.tenor.com/m/DN4JBeneqdkAAAAd/congratulations-evangelion.gif"  />
+  <p align="center">
+<img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Gabrielle&quotesUrl=https://github.com/jesshdzz/jesshdzz/blob/main/quotes/quotes.json"/>
+</p>
 </div>
 
 ###
 
-<p align="center">
-<img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Gabrielle&quotesUrl=https://github.com/jesshdzz/jesshdzz/blob/main/quotes/quotes.json"/>
-</p>
-
 ###
 
-<img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jesshdzz.jesshdzz&left_color=blueviolet&right_color=darkslateblue&left_text=Visitantes"  />
+<img data-importer="profile-views" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jesshdzz.jesshdzz&left_color=blueviolet&right_color=darkslateblue&left_text=Visitas al perfil"  />
 
 ###
