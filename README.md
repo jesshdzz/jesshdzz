@@ -133,7 +133,7 @@
   <img src="./profile/streak.svg"" height="200" alt="streak graph"/>
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=jesshdzz&theme=chalk&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" height="240" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" height="240" alt="GitHub Trophies" />
 </p>
 </div>
 
