@@ -5,7 +5,7 @@ on:
     - cron: '0 3 * * *' # Runs once daily at midnight
   push:
     paths:
-      - '.github/workflows/streak-stats.yml'
+      - '.github/workflows/stats.yml'
   workflow_dispatch:
 
 jobs:
@@ -33,6 +33,26 @@ jobs:
           options: username=${{ github.repository_owner }}&locale=es&hide_title=false&card_width=320&langs_count=5&theme=transparent&hide_border=true&layout=donut&custom_title=Mis%20lenguajes%20mas%20usados&hide=CMake,HTML&title_color=7AE0F5&text_color=91EDA1&card_width=340px
           path: profile/top-langs.svg
           token: ${{ secrets.README_TOKEN }}
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&locale=es&mode=weekly&theme=transparent&hide_border=true&border_radius=5&sideNums=7AE0F5&fire=7AE0F5&ring=fff&dates=FCC5FC&sideLabels=91EDA1&currStreakLabel=91EDA1&currStreakNum=91EDA1
+          path: profile/streak.svg
+          token: ${{ secrets.README_TOKEN }}
+
+      - name: generate trophy stats
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: profile/trophy.svg
+          token: ${{ secrets.README_TOKEN }}
+          theme: chalk
+          max-cols: 9
+          max-rows: 1
+          margin-width: 8
+          no-background: true
+          no-frame: true
 
       - name: Commit cards
         run: |
