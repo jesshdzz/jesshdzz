@@ -22,7 +22,7 @@ jobs:
         with:
           options: user=${{ github.repository_owner }}&locale=es&mode=weekly&theme=transparent&hide_border=true&border_radius=5&sideNums=7AE0F5&fire=7AE0F5&ring=fff&dates=FCC5FC&sideLabels=91EDA1&currStreakLabel=91EDA1&currStreakNum=91EDA1
           path: profile/streak.svg
-          token: ${{ secrets.STREAK_STATS_TOKEN }}
+          token: ${{ secrets.README_TOKEN }}
 
       - name: Commit streak stats
         run: |

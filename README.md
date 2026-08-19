@@ -126,8 +126,8 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=jesshdzz&custom_title=Mis%20Stats%21&show=reviews%2Cprs_merged%2Cprs_commented%2Cprs_reviewed&hide=issues,contribs,stars&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&ring_color=fff&icon_color=fff&title_color=7AE0F5&text_color=91EDA1&locale=en&card_width=400px" height="250" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jesshdzz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&layout=donut&custom_title=Mis%20lenguajes%20mas%20usados&hide=CMake,HTML&title_color=7AE0F5&text_color=91EDA1&card_width=340px" height="250"  alt="languages graph"  />
+  <img src="./profile/stats.svg" height="250" alt="stats graph"  />
+  <img src="./profile/top-langs.svg" height="250"  alt="languages graph"  />
 </p>
 <p align="center">
   <img src="./profile/streak.svg"" height="200" alt="streak graph"/>
