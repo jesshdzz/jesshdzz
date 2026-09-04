@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Mis Stats!, Rank: B+</title>
-        <desc id="descId">Total Commits  : 1708, Total PRs: 159, Total PRs Merged: 150, Total PRs Reviewed: 61, PRs Commented: 62, PRs Reviewed: 60</desc>
+        <title id="titleId">Mis Stats!, Rank: B</title>
+        <desc id="descId">Total Commits  : 1077, Total PRs: 101, Total PRs Merged: 98, Total PRs Reviewed: 61, PRs Commented: 62, PRs Reviewed: 60</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 124.47370897419707;
+        stroke-dashoffset: 140.0668925563051;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B+
+          B
         </text>
       
         </g>
@@ -162,7 +162,7 @@
         x="174.01"
         y="12.5"
         data-testid="commits"
-      >1.7k</text>
+      >1.1k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="174.01"
         y="12.5"
         data-testid="prs"
-      >159</text>
+      >101</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="174.01"
         y="12.5"
         data-testid="prs_merged"
-      >150</text>
+      >98</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
