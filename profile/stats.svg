@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mis Stats!, Rank: B</title>
-        <desc id="descId">Total Commits  : 1080, Total PRs: 101, Total PRs Merged: 98, Total PRs Reviewed: 61, PRs Commented: 62, PRs Reviewed: 60</desc>
+        <desc id="descId">Total Commits  : 1103, Total PRs: 106, Total PRs Merged: 103, Total PRs Reviewed: 63, PRs Commented: 64, PRs Reviewed: 62</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 140.02564724812115;
+        stroke-dashoffset: 138.6748332473529;
       }
     }
   
@@ -184,7 +184,7 @@
         x="174.01"
         y="12.5"
         data-testid="prs"
-      >101</text>
+      >106</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="174.01"
         y="12.5"
         data-testid="prs_merged"
-      >98</text>
+      >103</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="174.01"
         y="12.5"
         data-testid="reviews"
-      >61</text>
+      >63</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3Ajesshdzz+-author%3Ajesshdzz&amp;type=pullrequests">
@@ -229,7 +229,7 @@
         x="174.01"
         y="12.5"
         data-testid="prs_commented"
-      >62</text></a>
+      >64</text></a>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)"><a href="https://github.com/search?q=reviewed-by%3Ajesshdzz+-author%3Ajesshdzz&amp;type=pullrequests">
@@ -244,7 +244,7 @@
         x="174.01"
         y="12.5"
         data-testid="prs_reviewed"
-      >60</text></a>
+      >62</text></a>
     </g>
   </g>
     </svg>
